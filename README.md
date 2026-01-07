@@ -79,7 +79,7 @@ This is proprietary software requiring a valid license for use. See [LICENSE](LI
 
 ## LNbits inside!
 
-LNbits empowers everyone with modular, open-source tools for building Bitcoin-based systems — fast, free, and extendable.
+LNbits empowers everyone with modular, open-source tools for building Bitcoin-based systems - fast, free, and extendable.
 
 [![LNbits Shop](https://demo.lnbits.com/static/images/bitcoin-shop-banner.png)](https://shop.lnbits.com/)
 [![Visit LNbits Shop](https://img.shields.io/badge/Visit-LNbits%20Shop-7C3AED?logo=shopping-cart&logoColor=white&labelColor=5B21B6)](https://shop.lnbits.com/)
