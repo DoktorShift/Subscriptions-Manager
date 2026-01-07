@@ -249,6 +249,6 @@ Nothing is permanently deleted. Use Archive for record-keeping.
 
 ## More Resources
 
-- [Use Cases](USE_CASES.md) — Examples and benefits
-- [Full Documentation](https://docs-subscriptions.netlify.app) — Complete docs including API reference
-- [GitHub Issues](https://github.com/DoktorShift/subscriptions-manager-public/issues) — Report problems
+- [Use Cases](USE_CASES.md) - Examples and benefits
+- [Full Documentation](https://docs-subscriptions.netlify.app) - Complete docs including API reference
+- [GitHub Issues](https://github.com/DoktorShift/subscriptions-manager-public/issues) - Report problems
