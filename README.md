@@ -4,7 +4,11 @@
 
 Recurring subscription payments for your service via [LNbits](https://github.com/lnbits).
 
-Create plans, share a link, get paid automatically.
+## About
+
+Subscriptions Manager is a powerful LNbits extension for managing recurring payments. Whether you're a content creator, community manager, freelancer, or running a SaaS product, this extension handles your subscription billing automatically.
+
+**No coding. No complicated setup. Just create, share, get paid.**
 
 ![Subscriptions Manager](images/readme_prime_blue.png)
 
@@ -20,14 +24,6 @@ Create plans, share a link, get paid automatically.
 - [Support](#support)
 - [License](#license)
 - [Contributors](#contributors)
-
----
-
-## About
-
-Subscriptions Manager is a powerful LNbits extension for managing recurring payments. Whether you're a content creator, community manager, freelancer, or running a SaaS product, this extension handles your subscription billing automatically.
-
-**No coding. No complicated setup. Just create, share, get paid.**
 
 ---
 
@@ -77,11 +73,11 @@ See the [Installation Guide](INSTALLATION.md) for detailed setup instructions.
 
 **Found a bug? Have a feature request?**
 
-Please open an issue on this repository: [GitHub Issues](https://github.com/DoktorShift/subscriptions-manager-public/issues)
+Please open an issue on this repository: [GitHub Issues](https://github.com/DoktorShift/Subscriptions-Manager/issues)
 
 **Want to support development?**
 
-[![Lightning Tip](https://img.shields.io/badge/⚡%20Tip-Lightning-orange)](lightning:u60311@blink.sv)
+<img src="images/Subscriptions_Manager_Donation.png" alt="Donate via Lightning" width="150" />
 
 `u60311@blink.sv`
 
