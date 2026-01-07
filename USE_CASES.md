@@ -2,7 +2,7 @@
 
 You want to get paid regularly for something you offer. That's it.
 
-This extension lets you create subscription plans and share a simple link. When someone clicks it, they subscribe and pay you automatically—every week, month, or year.
+This extension lets you create subscription plans and share a simple link. When someone clicks it, they subscribe and pay you automatically - every week, month, or year.
 
 No coding. No complicated setup. Just create, share, get paid.
 
@@ -27,7 +27,7 @@ You run a Discord server, private forum, or members-only group. Charge monthly a
 You offer ongoing services—coaching calls, maintenance, advisory hours. Instead of chasing invoices every month, your clients subscribe once and payments happen automatically.
 
 **Small Software Products**
-You built something useful—a tool, a bot, a service. Charge a monthly fee. The extension handles billing, you handle building.
+You built something useful - a tool, a bot, a service. Charge a monthly fee. The extension handles billing, you handle building.
 
 **Anyone With Recurring Value**
 If you provide something valuable on a regular basis, you can charge for it on a regular basis.
@@ -41,7 +41,7 @@ Know what's coming in each month. See your active subscribers, track revenue, pl
 No chasing payments. No manually sending invoices. Subscribers pay automatically when their period renews.
 
 ### Flexibility for Your Customers
-They can use Bitcoin (Lightning or on-chain), credit card, or PayPal—whatever's available on your server. They manage their own subscription through a self-service portal.
+They can use Bitcoin (Lightning or on-chain), credit card, or PayPal - whatever's available on your server. They manage their own subscription through a self-service portal.
 
 ### Stay Informed
 Get notified when someone subscribes, when a payment fails, or when someone cancels. Email, Telegram, or custom webhooks—your choice.
@@ -101,13 +101,13 @@ Let people try before they commit. Set a 7-day trial and they only pay if they s
 
 ## The Basics in 60 Seconds
 
-1. **Create a plan** — Give it a name, set a price, pick an interval (weekly/monthly/yearly)
+1. **Create a plan** - Give it a name, set a price, pick an interval (weekly/monthly/yearly)
 
-2. **Copy the link** — Every plan has a unique subscribe URL
+2. **Copy the link** - Every plan has a unique subscribe URL
 
-3. **Share it** — Put it on your website, email signature, social media, wherever
+3. **Share it** - Put it on your website, email signature, social media, wherever
 
-4. **Get paid** — When someone subscribes, you receive payments directly to your LNbits wallet
+4. **Get paid** - When someone subscribes, you receive payments directly to your LNbits wallet
 
 5. **Manage subscribers** — See who's active, who needs attention, who cancelled
 
@@ -116,10 +116,10 @@ That's the whole thing.
 ## What You Don't Have to Worry About
 
 - **Payment processing** — LNbits handles it
-- **Invoicing** — Automatic
-- **Reminding subscribers** — Automatic renewal notifications
-- **Technical integration** — Unless you want to (there's an API for that)
-- **Customer accounts** — Subscribers don't need to create accounts anywhere
+- **Invoicing** - Automatic
+- **Reminding subscribers** - Automatic renewal notifications
+- **Technical integration** - Unless you want to (there's an API for that)
+- **Customer accounts** - Subscribers don't need to create accounts anywhere
 
 ## Before You Start
 
