@@ -12,8 +12,6 @@ Subscriptions Manager is a powerful LNbits extension for managing recurring paym
 
 ![Subscriptions Manager](images/readme_prime_blue.png)
 
----
-
 ## Table of Contents
 
 - [About](#about)
@@ -25,8 +23,6 @@ Subscriptions Manager is a powerful LNbits extension for managing recurring paym
 - [License](#license)
 - [Contributors](#contributors)
 
----
-
 ## Features
 
 - Create and manage custom subscription plans (weekly, monthly, yearly)
@@ -37,8 +33,6 @@ Subscriptions Manager is a powerful LNbits extension for managing recurring paym
 - Multi-channel notifications (Email, Telegram, Webhooks, Nostr)
 - Track active subscriptions, revenue, and payment history
 - Full API for custom integrations
-
----
 
 ## Documentation
 
@@ -52,13 +46,9 @@ Subscriptions Manager is a powerful LNbits extension for managing recurring paym
 
 For API documentation and developer resources, please visit the [full documentation site](https://docs-subscriptions.netlify.app).
 
----
-
 ## Install
 
 See the [Installation Guide](INSTALLATION.md) for detailed setup instructions.
-
----
 
 ## Requirements
 
@@ -66,8 +56,6 @@ See the [Installation Guide](INSTALLATION.md) for detailed setup instructions.
 - Python 3.10+
 - Optional: WatchOnly + SatsPay (on-chain payments)
 - Optional: Stripe/PayPal enabled by server admin (fiat payments)
-
----
 
 ## Support
 
@@ -81,19 +69,13 @@ Please open an issue on this repository: [GitHub Issues](https://github.com/Dokt
 
 `u60311@blink.sv`
 
----
-
 ## License
 
 This is proprietary software requiring a valid license for use. See [LICENSE](LICENSE) for terms.
 
----
-
 ## Contributors
 
 [DoktorShift](https://github.com/DoktorShift) · [Pratik227](https://github.com/Pratik227)
-
----
 
 ## LNbits inside!
 

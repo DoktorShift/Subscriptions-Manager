@@ -6,8 +6,6 @@ This extension lets you create subscription plans and share a simple link. When 
 
 No coding. No complicated setup. Just create, share, get paid.
 
----
-
 ## Table of Contents
 
 - [Who Is This For?](#who-is-this-for)
@@ -16,8 +14,6 @@ No coding. No complicated setup. Just create, share, get paid.
 - [The Basics in 60 Seconds](#the-basics-in-60-seconds)
 - [What You Don't Have to Worry About](#what-you-dont-have-to-worry-about)
 - [Before You Start](#before-you-start)
-
----
 
 ## Who Is This For?
 
@@ -36,8 +32,6 @@ You built something useful—a tool, a bot, a service. Charge a monthly fee. The
 **Anyone With Recurring Value**
 If you provide something valuable on a regular basis, you can charge for it on a regular basis.
 
----
-
 ## What You Get
 
 ### Predictable Income
@@ -54,8 +48,6 @@ Get notified when someone subscribes, when a payment fails, or when someone canc
 
 ### Offer Trials
 Let people try before they commit. Set a 7-day trial and they only pay if they stick around.
-
----
 
 ## Real Examples
 
@@ -107,8 +99,6 @@ Let people try before they commit. Set a 7-day trial and they only pay if they s
 4. Payments happen automatically each month
 5. If they want to pause for a month, they can—you have pause/resume controls
 
----
-
 ## The Basics in 60 Seconds
 
 1. **Create a plan** — Give it a name, set a price, pick an interval (weekly/monthly/yearly)
@@ -123,8 +113,6 @@ Let people try before they commit. Set a 7-day trial and they only pay if they s
 
 That's the whole thing.
 
----
-
 ## What You Don't Have to Worry About
 
 - **Payment processing** — LNbits handles it
@@ -132,8 +120,6 @@ That's the whole thing.
 - **Reminding subscribers** — Automatic renewal notifications
 - **Technical integration** — Unless you want to (there's an API for that)
 - **Customer accounts** — Subscribers don't need to create accounts anywhere
-
----
 
 ## Before You Start
 
@@ -146,8 +132,6 @@ Optional but recommended:
 - Email setup for notifications (yours and subscribers')
 - A clear idea of what you're offering and what it's worth
 
----
-
 ## One More Thing
 
 This isn't about features. It's about getting paid for the value you provide, without the friction.
@@ -156,11 +140,7 @@ Create a plan. Share a link. Get paid.
 
 That's what you can do here.
 
----
-
 **Ready?** Open the extension, create your first plan, and share it with one person today.
-
----
 
 *Need detailed setup instructions?* See the [Guide](GUIDE.md)
 

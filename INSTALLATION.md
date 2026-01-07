@@ -2,8 +2,6 @@
 
 Get access to Subscriptions Manager.
 
----
-
 ## Current Availability
 
 Subscriptions Manager is currently available on **TimeCatcher**, our private community LNbits server.
@@ -17,8 +15,6 @@ Subscriptions Manager is currently available on **TimeCatcher**, our private com
 Once you're in, the extension is ready to use — no additional setup required.
 
 > Your payment supports ongoing development and keeps the community server running.
-
----
 
 ## Coming Soon: Vetted Extension
 
@@ -46,8 +42,6 @@ Any LNbits Instance (self-hosted or hosted)
 
 > We'll update this page when the vetted extension becomes available. For now, [request access to TimeCatcher](https://v1.lnbits.de/events/7GGGbKTjxWwor7sTFpEdun) to get started immediately.
 
----
-
 ## After Installation
 
 Once you have access to the extension, verify it's working:
@@ -62,8 +56,6 @@ Once you have access to the extension, verify it's working:
 2. Check that the extension is enabled in Manage Extensions
 3. Clear browser cache if needed
 
----
-
 ## Optional: On-Chain Payments
 
 Want to accept on-chain Bitcoin in addition to Lightning? You'll need:
@@ -75,8 +67,6 @@ Want to accept on-chain Bitcoin in addition to Lightning? You'll need:
 
 Both are available in the LNbits extension manager.
 
----
-
 ## Optional: Stripe & PayPal
 
 > **Note:** Stripe and PayPal require **admin-level configuration** on the LNbits instance. These credentials are sensitive and can only be set once per server by the instance administrator.
@@ -86,8 +76,6 @@ Both are available in the LNbits extension manager.
 - On your own LNbits: You control the admin settings
 
 **Want fiat payments?** Wait for the vetted extension, then run it on your own self-hosted LNbits server where you have admin access to configure Stripe/PayPal credentials.
-
----
 
 ## Next Steps
 

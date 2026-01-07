@@ -2,8 +2,6 @@
 
 Everything you need to set up and run your subscription business.
 
----
-
 ## Table of Contents
 
 - [First Steps](#first-steps)
@@ -16,8 +14,6 @@ Everything you need to set up and run your subscription business.
 - [Archive](#archive)
 - [Tips](#tips)
 - [More Resources](#more-resources)
-
----
 
 ## First Steps
 
@@ -42,8 +38,6 @@ Click **New Plan** and fill in:
 
 Every plan has a unique URL. Click the copy icon next to your plan and share it anywhere.
 
----
-
 ## Payment Methods
 
 ### Lightning (Default)
@@ -65,8 +59,6 @@ Subscribers see a unified QR code that works with both Lightning and on-chain wa
 
 Server-level feature. Your LNbits admin must enable Stripe/PayPal in server settings. If enabled, these options appear automatically in plan creation.
 
----
-
 ## Plan Settings Explained
 
 ### Trial Days
@@ -86,8 +78,6 @@ Extra time after a payment fails before marking the subscription as failed.
 - `3` = 3 days to fix payment issues
 
 During grace period, status shows "Past Due". Subscribers keep access. Use 3-7 days to reduce accidental churn.
-
----
 
 ## Managing Subscribers
 
@@ -118,8 +108,6 @@ During grace period, status shows "Past Due". Subscribers keep access. Use 3-7 d
 - **Search**: Find by email or name
 - **Plan filter**: Show subscribers of specific plan
 - **Status filter**: Active / Needs Attention / Inactive
-
----
 
 ## Notifications
 
@@ -181,8 +169,6 @@ Choose which events trigger notifications:
 
 Both you (merchant) and subscribers can receive notifications.
 
----
-
 ## Subscriber Experience
 
 ### What They See
@@ -207,8 +193,6 @@ From the portal they can:
 
 The link is included in confirmation emails. You can also copy it from the subscriber row in admin.
 
----
-
 ## Deleting Plans
 
 When you delete a plan:
@@ -219,8 +203,6 @@ When you delete a plan:
 4. **Subscriptions move to Archive**
 
 The confirmation dialog shows exactly how many subscriptions will be affected.
-
----
 
 ## Archive
 
@@ -235,8 +217,6 @@ Each section has its own search. Archived subscriptions show:
 - When they ended
 
 Nothing is permanently deleted. Use Archive for record-keeping.
-
----
 
 ## Tips
 
@@ -266,8 +246,6 @@ Nothing is permanently deleted. Use Archive for record-keeping.
 
 **Subscriber can't access portal**
 → Copy fresh portal link from admin UI and send to them.
-
----
 
 ## More Resources
 
