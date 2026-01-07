@@ -1,4 +1,4 @@
-![Subscriptions Manager](images/banner.png)
+![Subscriptions Manager](images/Subscriptions_banner.png)
 
 # Subscriptions Manager
 
@@ -6,7 +6,7 @@ Recurring subscription payments for your service via [LNbits](https://github.com
 
 Create plans, share a link, get paid automatically.
 
-![Subscriptions Manager](images/readme_prime.png)
+![Subscriptions Manager](images/readme_prime_blue.png)
 
 ---
 
