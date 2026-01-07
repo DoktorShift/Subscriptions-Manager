@@ -12,7 +12,7 @@ Subscriptions Manager is currently available on **TimeCatcher**, our private com
 2. **Complete the Lightning payment** to unlock your spot
 3. **Receive your login credentials** and start using Subscriptions Manager
 
-Once you're in, the extension is ready to use — no additional setup required.
+Once you're in, the extension is ready to use - no additional setup required.
 
 > Your payment supports ongoing development and keeps the community server running.
 
@@ -22,9 +22,9 @@ We're working to get Subscriptions Manager vetted as an official LNbits extensio
 
 Once vetted, the extension will be:
 
-- **Available on every LNbits instance** — Install it on your own self-hosted LNbits
-- **One-time payment** — Purchase once, use forever on your instance
-- **Supporting the ecosystem** — Payments support the developers and LNbits project
+- **Available on every LNbits instance** - Install it on your own self-hosted LNbits
+- **One-time payment** - Purchase once, use forever on your instance
+- **Supporting the ecosystem** - Payments support the developers and LNbits project
 
 ### How Vetted Extensions Work
 
