@@ -1,4 +1,4 @@
-![Subscriptions Manager](images/Subscriptions_banner.png)
+![Subscriptions Manager](images/subscriptions_manager_banner_orange.png)
 
 # Subscriptions Manager
 
@@ -10,7 +10,7 @@ Subscriptions Manager is a powerful LNbits extension for managing recurring paym
 
 **No coding. No complicated setup. Just create, share, get paid.**
 
-![Subscriptions Manager](images/readme_prime_blue.png)
+![Subscriptions Manager](images/readme_prime_orange.png)
 
 ## Table of Contents
 
