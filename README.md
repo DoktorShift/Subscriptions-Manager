@@ -71,7 +71,7 @@ Please open an issue on this repository: [GitHub Issues](https://github.com/Dokt
 
 ## License
 
-This is proprietary software requiring a valid license for use. See [LICENSE](LICENSE) for terms.
+This is proprietary software requiring a full read of the License. See [LICENSE](LICENSE) for terms.
 
 ## Contributors
 
